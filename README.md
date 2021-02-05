@@ -1,3 +1,6 @@
 # Starting_Out
-First attempt at anything github-ish!! 
-Long time listener, first time caller.  Will be adding new project soon.  Like to play in Python, pulling ideas in with the kids and making some story book editors.  Any advice or help is appreciated as we start down this new chapter of life!
+Father/Daughter team up to tackle coding!  
+Long time listener, first time caller.  
+We are creating a desktop Vegas Craps game using Python.  Starting out with a simple street craps version, and then adding in layers as we go. 
+Street Craps code is complete.  No formatting yet, and no html yet. Just simple Python code.
+Giggity!
