@@ -21,7 +21,7 @@ total = 0
 
 
 while rolling:
-    print(input("\n\nHit Enter to Roll>>>"))
+    print(input("\n\nHit Enter to Roll them bones daddy >>>"))
     result = throw1.roll()
     total = (result[0] + result[1])
     print(result)
