@@ -3,7 +3,8 @@
 #  Roll 2,3, or 12 coming out and lose craps
 #  Any other number and you have to roll that same number again before you roll a 7
 #  Simplified Craps Game
-#  No wagering yet
+#  No wagering yet!! But its coming!!
+# Giggity!
 
 import random
 
