@@ -44,7 +44,7 @@ while game != "x":
                 rolling = False
             else:
                 if total == point:
-                    print(f"{point} winner winner chicken dinner, pay the line, take the don't, the man is on fire!!!")
+                    print(f"{point} winner winner chicken dinner, pay the line, take the don't, the man is on fire!!! Let's do it again!!!")
                     coming_out = True
                 else:
                     print(f"Keep Shooting my man, let's find that {point}, these people wanna get paid")
