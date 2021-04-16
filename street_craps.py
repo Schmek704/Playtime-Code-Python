@@ -48,7 +48,7 @@ while game != "x":
                     coming_out = True
                 else:
                     print(f"Keep Shooting my man, let's find that {point}, these people wanna get paid")
-    print("\n\nGood Roll buddy, better luck next time...")
+    print("\n\nGood Roll buddy, better luck next time... let's see the next shooter!!!")
     rolling = True
     coming_out = True
     game = input('\n\nNext Shooter>> "Enter" for yes, "x" for Exit:  ')
