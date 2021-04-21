@@ -1,3 +1,2 @@
-# Vegas Craps with the Kid
-Father/Daughter team up to tackle coding!  
+General coding challenges and miscellaneous free time work. 
 
