@@ -13,6 +13,7 @@ def trans(phrase):
 # Introducing the user to the newest language in town!
 next = ''
 while next.lower() != 'n':
+	print("Wong e long cong o mong e!
 	word = input("\n\nPlease enter a word or phrase:  ")
 	print("\n\nWelcome to the world of Ongese!!!")
 	print("\nThe translation of your phrase in Ongese is:")
